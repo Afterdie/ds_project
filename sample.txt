@@ -1,0 +1,1 @@
+Remember that when working with files, exceptions related to file I/O (such as IOException) should be handled appropriately using try-catch blocks or by declaring them to be thrown in your method signature. Always make sure to close the file or other resources you've opened after you're done with them, to avoid potential resource leaks.
